@@ -33,6 +33,7 @@ hr {
 
 	background-color: skyblue;
 	border-color: #F05F44;
+	border-radius: 20%;
 }
 
 .btn-primary:hover{
