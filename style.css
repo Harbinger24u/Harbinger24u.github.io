@@ -43,6 +43,11 @@ hr {
 	border-width: 50px;
 }
 
+.topnav{
+	display: flex;
+	justify-content: start;
+}
+
 .Youtube{
 	background-color:#FF0000 ;
 	float: left;
