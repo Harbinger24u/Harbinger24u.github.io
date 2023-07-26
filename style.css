@@ -28,21 +28,10 @@ hr {
 	height: 10rem;
 }
 
-.btn{
-	font-weight: 700;
-	border-radius: 300px;
-	text-transform: uppercase;
-}
-
-
-.btn-xl{
-
-	padding: 1rem 2rem; 
-}
 
 .btn-primary{
 
-	background-color: #F05F44;
+	background-color: skyblue;
 	border-color: #F05F44;
 }
 
