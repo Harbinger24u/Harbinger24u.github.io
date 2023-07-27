@@ -59,6 +59,7 @@ hr {
 .topnav{
 	display: flex;
 	justify-content: start;
+	position: fixed;
 }
 
 .Youtube{
